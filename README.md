@@ -21,18 +21,17 @@
 ### About Me
 
 - 🌱 I’m currently learning **Gen AI & AI Agents**.
-<!-- - 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source ML projects]**. -->
 - 👨‍💻 All of my projects are available at **[https://github.com/RahulAnand2077](https://github.com/RahulAnand2077)**.
 - 💬 Ask me about **Music 🎸**.
-- 📫 How to reach me: **[rahulcollege27@gmail.com]**.
+- 📫 How to reach me: **rahulcollege27@gmail.com**.
 <!-- - ⚡ Fun fact: **[A fun fact about you!]**. -->
+<!-- - 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source ML projects]**. -->
 
 ---
 
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-anand-bb3995317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-anand-bb3995317" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/[Your-Twitter-Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your-Twitter-Username]" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/RahulAnand2077/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[Your-LeetCode-Username]" height="30" width="40" /></a>
 <a href="https://instagram.com/i_rahul.anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_rahul.anand" height="30" width="40" /></a>
 </p>
@@ -40,19 +39,20 @@
 ---
 
 ### Languages and Tools:
-
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://qiskit.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/qiskit/6929C4" alt="qiskit" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/arduino/00979D" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.kaggle.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="kaggle" width="40" height="40"/> </a> 
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/googlegemini/8E77E9" alt="Gemini" width="40" height="40"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Colab" width="40" height="40"/> </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/019969" alt="LangChain" width="40" height="40"/> </a>
 </p>
 
 ---

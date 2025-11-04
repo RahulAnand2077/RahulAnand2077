@@ -21,7 +21,6 @@
 ### About Me
 
 - 🌱 I’m currently learning **Gen AI & AI Agents**.
-- 👨‍💻 All of my projects are available at **[https://github.com/RahulAnand2077](https://github.com/RahulAnand2077)**.
 - 💬 Ask me about **Music 🎸**.
 - 📫 How to reach me: **rahulcollege27@gmail.com**.
 <!-- - ⚡ Fun fact: **[A fun fact about you!]**. -->

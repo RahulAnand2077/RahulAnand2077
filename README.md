@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulcollege27@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=RahulAnand2077&color=blueviolet&style=for-the-badge) -->
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=RahulAnand2077&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="RahulAnand2077" />
-</p>
+</p> -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">

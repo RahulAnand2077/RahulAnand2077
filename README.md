@@ -20,9 +20,9 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **Gen AI & AI Agents**.
+- 🌱 I’m currently learning **LLMs, Gen AI & AI Agents**.
 - 💬 Ask me about **Music 🎸**.
-- 📫 How to reach me: **rahulcollege27@gmail.com**.
+<!-- - 📫 How to reach me: **rahulcollege27@gmail.com**. -->
 <!-- - ⚡ Fun fact: **[A fun fact about you!]**. -->
 <!-- - 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source ML projects]**. -->
 
@@ -56,12 +56,12 @@
 
 ---
 
-### GitHub Stats
+<!-- ### GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulAnand2077&show_icons=true&theme=radical" alt="RahulAnand2077's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAnand2077&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->

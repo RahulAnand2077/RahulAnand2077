@@ -20,7 +20,7 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **LLMs, Gen AI & AI Agents**.
+- 🌊 Going into the depth.
 - 💬 Ask me about **Music 🎸**.
 <!-- - 📫 How to reach me: **rahulcollege27@gmail.com**. -->
 <!-- - ⚡ Fun fact: **[A fun fact about you!]**. -->

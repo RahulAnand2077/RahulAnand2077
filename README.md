@@ -1,5 +1,5 @@
 <h1 align="center">Rahul Anand</h1>
-<h3 align="center">Midnight owl with some coffee</h3>
+<h3 align="center">Midnight cat with some coffee</h3>
 
 <!--[![Portfolio](https://img.shields.io/badge/ML_Portfolio-FF7130?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshdevadiga.vercel.app/)-->
 <!-- [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-anand-bb3995317/)
